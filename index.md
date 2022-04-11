@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenido a blog Github
 
-You can use the [editor on GitHub](https://github.com/webunderground/blogsimple/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este blog informa sobre los principales proyectos realizados por este usuario de programación
 
 ### Markdown
 
