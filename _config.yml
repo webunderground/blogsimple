@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 paginate: 5
 plugins:
-- jekyll-paginate
+  - jekyll-paginate
