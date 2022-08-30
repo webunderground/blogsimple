@@ -8,7 +8,7 @@ Tom Preston-Werner, uno de los cuatro fundadores de la plataforma GitHub, public
 * [jekyllthemes](http://jekyllthemes.org/)
 * [Free Jekyll themes](https://jekyllthemes.io/free)
 
-##¿Qué es un template?"
+## ¿Qué es un template?"
 
 
 Un template es un archivo que contiene etiquetas HTML y etiquetas especiales definidas por un motor de plantillas, Liquid en este caso, necesarias para conformar una página web.
